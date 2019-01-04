@@ -1,0 +1,358 @@
+#EXTINF:0,SP:TVE 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="SPAIN",La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tqIlk01.png" group-title="Antena 3 | HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1,ES: N CUATRO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32720
+
+#EXTINF:-1,ES: TELECINCO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32719
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LoVxGji.png" group-title="La Sexta | HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1,ES: NAT GEO WILD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32678
+
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32679
+
+#EXTINF:-1,ES: NOVA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32673
+
+#EXTINF:-1,ES: ODISEA TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32674
+#EXTINF:-1,ES: NICKELODEON
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32708
+
+#EXTINF:-1,ES: CARTOON NETWORK
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32709
+
+#EXTINF:-1,ES: BABY TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32714
+
+#EXTINF:-1,ES: BOING
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32713
+
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32707
+
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32710
+
+#EXTINF:-1,ES: DISNEY XD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32711
+
+#EXTINF:-1,ES: TAQUILLA 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32661
+
+#EXTINF:-1,ES: TAQUILLA 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32660
+
+#EXTINF:-1,ES: TAQUILLA 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32659
+
+#EXTINF:-1,ES: TAQUILLA 4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32658
+
+#EXTINF:-1,ES: TAQUILLA 5
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32657
+
+#EXTINF:-1,ES: TAQUILLA 6
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32656
+
+#EXTINF:-1,ES: TAQUILLA 7
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32655
+
+#EXTINF:-1,ES: TAQUILLA 9
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32653
+
+#EXTINF:-1,ES: TAQUILLA 10
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32652
+
+#EXTINF:-1,ES: EUROSPORT
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32651
+
+#EXTINF:-1,ES: BEIN SPORT ESPAGNE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32649
+
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32746
+
+#EXTINF:-1,SP: OSN SPORTS 1 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32731
+
+#EXTINF:-1,SP: OSN SPORTS 2 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32730
+
+#EXTINF:-1,SP:OSN SPORTS 3 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32729
+
+#EXTINF:-1,SP: OSN SPORTS 4HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32728
+
+#EXTINF:-1,SP:OSN SPORTS CRICKET HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32727
+
+#EXTINF:-1,SP: REAL MADRID TV
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32744
+
+#EXTINF:-1,SP: SKYNET SPORTS 1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32753
+
+#EXTINF:-1,SP: SKYNET SPORTS 2
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32752
+
+#EXTINF:-1,SP:SKYNET SPORTS 3
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32751
+
+#EXTINF:-1,SP: SKYNET SPORTS 4
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32750
+
+#EXTINF:-1,SP: SKYNET SPORTS 5
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32749
+
+#EXTINF:-1,SP: SKYNET SPORTS HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32754
+
+#EXTINF:-1,ES: TNT
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32690
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2zQi7G3.png" group-title="ATRESeries | HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Gjp11Z3.png" group-title="Mega España | HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f4B8ONt.png" group-title="Neox | HD
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fJR4kYE.png" group-title="Nova | HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:0,TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32698
+
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32697
+
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32696
+
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32692
+
+#EXTINF:-1,ES: MOVISTAR F1
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32664
+
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32665
+
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32694
+
+#EXTINF:-1,ES: MOVISTAR XTRA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32695
+
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32686
+
+#EXTINF:-1,ES: CANAL  DECASA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32667
+
+#EXTINF:-1,ES: CANAL  DEPORTES
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32650
+
+#EXTINF:-1,ES: CANAL COCINA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32666
+
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32688
+
+#EXTINF:-1,ES: AXN
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32700
+
+#EXTINF:-1,ES: AXN WHITE HD
+http://178.132.3.65:8000/UkjKB8a
+
+#EXTINF:-1,ES: FOX
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32702
+
+#EXTINF:-1,ES: FOX HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32703
+
+#EXTINF:-1,ES: FOX LIFE
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32705
+
+#EXTINF:-1,ES: FOX LIFE HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32704
+
+#EXTINF:-1,ES: CALLE 13 HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32699
+
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32689
+
+#EXTINF:-1,ES: COSMO HD
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32668
+
+#EXTINF:-1,ES: SYFY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32706
+
+#EXTINF:-1,ES: ENERGY
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32683
+
+#EXTINF:-1,ES: FACTORIA DE FICCION
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32685
+
+#EXTINF:-1,ES: HISTORIA
+http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32677
+
+#EXTINF:-1, FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1, Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:0,BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:0,SP:Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:0,Canal 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7C9rreQ.png" group-title="Calle 13 | SD
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+
+#EXTINF:-1,NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+#EXTINF:-1,CULTURA:CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1,NOTICIAS:RT Español
+http://bit.ly/2iLCJC2
+
+#EXTINF:-1,CILENCE TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+
+#EXTINF:0,PELICULAS 24/7
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,SPAIN:(ONLINE) La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:-1,Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1,M. DCINE HD
+http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/540.ts
+
+#EXTINF:0,Travel
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+
+#EXTINF:0,SP:Aragon TV - Aragon
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+#EXTINF:0,CANAL SUR ANDALUCIA
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
+
+#EXTINF:0,CANAL SUR
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream1.m3u8
+
+#EXTINF:0,Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:0,ESPAÑA MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:0,ESPAÑA NAVARRA
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:0,ESPAÑA IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
+
+#EXTINF:0,Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
+
+#EXTINF:0,SP:Canal Parlamento - Madrid
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:0,SP:C. Extremadura - Extramadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+
+#EXTINF:0,SP:IB3 - Baleares
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
+
+#EXTINF:0,SPAIN:TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NPwasj0.png" group-title="Extremadura | SD
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3TGxQ3O.png" group-title="ETBSAT | SD
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+
+#EXTINF:0,Andorra TV (Andorra)
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+
+
+#EXTINF:0,MUSIC BOX
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:0,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:0,SP:Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+
+#EXTINF:0,Hit TV | SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:0,Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:0,M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:0,Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:0,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:0,Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:0,RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:0,Retro TV | SD
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:0,Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/rtp-asturias.jpg" group-title="SPAIN",RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png" group-title="SPAIN",TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+
