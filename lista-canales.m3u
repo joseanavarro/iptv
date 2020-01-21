@@ -1,358 +1,349 @@
-#EXTINF:0,SP:TVE 1
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="SPAIN",La 2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tqIlk01.png" group-title="Antena 3 | HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1,ES: N CUATRO HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32720
-
-#EXTINF:-1,ES: TELECINCO HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32719
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LoVxGji.png" group-title="La Sexta | HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1,ES: NAT GEO WILD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32678
-
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32679
-
-#EXTINF:-1,ES: NOVA
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32673
-
-#EXTINF:-1,ES: ODISEA TV
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32674
-#EXTINF:-1,ES: NICKELODEON
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32708
-
-#EXTINF:-1,ES: CARTOON NETWORK
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32709
-
-#EXTINF:-1,ES: BABY TV
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32714
-
-#EXTINF:-1,ES: BOING
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32713
-
+#EXTM3U
 #EXTINF:-1,ES: DISNEY CHANNEL
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32707
-
+http://tv2iptv.com:8000/badr/badr1234/39879
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://tv2iptv.com:8000/badr/badr1234/39878
 #EXTINF:-1,ES: DISNEY JUNIOR
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32710
-
+http://tv2iptv.com:8000/badr/badr1234/39877
 #EXTINF:-1,ES: DISNEY XD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32711
-
-#EXTINF:-1,ES: TAQUILLA 1
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32661
-
-#EXTINF:-1,ES: TAQUILLA 2
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32660
-
-#EXTINF:-1,ES: TAQUILLA 3
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32659
-
-#EXTINF:-1,ES: TAQUILLA 4
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32658
-
-#EXTINF:-1,ES: TAQUILLA 5
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32657
-
-#EXTINF:-1,ES: TAQUILLA 6
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32656
-
-#EXTINF:-1,ES: TAQUILLA 7
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32655
-
-#EXTINF:-1,ES: TAQUILLA 9
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32653
-
-#EXTINF:-1,ES: TAQUILLA 10
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32652
-
-#EXTINF:-1,ES: EUROSPORT
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32651
-
-#EXTINF:-1,ES: BEIN SPORT ESPAGNE
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32649
-
-#EXTINF:-1,SP: BEIN SPORTS HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32746
-
-#EXTINF:-1,SP: OSN SPORTS 1 HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32731
-
-#EXTINF:-1,SP: OSN SPORTS 2 HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32730
-
-#EXTINF:-1,SP:OSN SPORTS 3 HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32729
-
-#EXTINF:-1,SP: OSN SPORTS 4HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32728
-
-#EXTINF:-1,SP:OSN SPORTS CRICKET HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32727
-
-#EXTINF:-1,SP: REAL MADRID TV
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32744
-
-#EXTINF:-1,SP: SKYNET SPORTS 1
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32753
-
-#EXTINF:-1,SP: SKYNET SPORTS 2
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32752
-
-#EXTINF:-1,SP:SKYNET SPORTS 3
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32751
-
-#EXTINF:-1,SP: SKYNET SPORTS 4
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32750
-
-#EXTINF:-1,SP: SKYNET SPORTS 5
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32749
-
-#EXTINF:-1,SP: SKYNET SPORTS HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32754
-
-#EXTINF:-1,ES: TNT
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32690
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2zQi7G3.png" group-title="ATRESeries | HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Gjp11Z3.png" group-title="Mega España | HD
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f4B8ONt.png" group-title="Neox | HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fJR4kYE.png" group-title="Nova | HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:0,TVE 24H
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-
+http://tv2iptv.com:8000/badr/badr1234/39876
+#EXTINF:-1,ES: MOVISTAR  ACCION HD
+http://tv2iptv.com:8000/badr/badr1234/40000
+#EXTINF:-1,ES: MOVISTAR  ESTRENOS
+http://tv2iptv.com:8000/badr/badr1234/40002
 #EXTINF:-1,ES: MOVISTAR ACCION
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32698
-
+http://tv2iptv.com:8000/badr/badr1234/39999
 #EXTINF:-1,ES: MOVISTAR COMEDIA
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32697
-
-#EXTINF:-1,ES: MOVISTAR DCINE
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32696
-
-#EXTINF:-1,ES: MOVISTAR ESTRENOS
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32692
-
+http://tv2iptv.com:8000/badr/badr1234/40010
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://tv2iptv.com:8000/badr/badr1234/40009
+#EXTINF:-1,ES: MOVISTAR DEPORTES
+http://tv2iptv.com:8000/badr/badr1234/39910
+#EXTINF:-1,ES: MOVISTAR DEPORTES HD
+http://tv2iptv.com:8000/badr/badr1234/39911
+#EXTINF:-1,ES: MOVISTAR DISNEY HD
+http://tv2iptv.com:8000/badr/badr1234/39886
+#EXTINF:-1,ES: MOVISTAR DRAMA
+http://tv2iptv.com:8000/badr/badr1234/40008
+#EXTINF:-1,ES: MOVISTAR DRAMA HD
+http://tv2iptv.com:8000/badr/badr1234/40007
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
+http://tv2iptv.com:8000/badr/badr1234/40001
 #EXTINF:-1,ES: MOVISTAR F1
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32664
-
-#EXTINF:-1,ES: MOVISTAR MOTOGP
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32665
-
-#EXTINF:-1,ES: MOVISTAR SERIES XTRA
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32694
-
-#EXTINF:-1,ES: MOVISTAR XTRA
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32695
-
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32686
-
-#EXTINF:-1,ES: CANAL  DECASA
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32667
-
-#EXTINF:-1,ES: CANAL  DEPORTES
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32650
-
-#EXTINF:-1,ES: CANAL COCINA
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32666
-
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32688
-
-#EXTINF:-1,ES: AXN
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32700
-
-#EXTINF:-1,ES: AXN WHITE HD
-http://178.132.3.65:8000/UkjKB8a
-
-#EXTINF:-1,ES: FOX
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32702
-
+http://tv2iptv.com:8000/badr/badr1234/39959
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://tv2iptv.com:8000/badr/badr1234/39916
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+http://tv2iptv.com:8000/badr/badr1234/39915
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://tv2iptv.com:8000/badr/badr1234/39909
+#EXTINF:-1,ES: MOVISTAR GOLF HD
+http://tv2iptv.com:8000/badr/badr1234/39917
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO
+http://tv2iptv.com:8000/badr/badr1234/39961
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD
+http://tv2iptv.com:8000/badr/badr1234/39960
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://tv2iptv.com:8000/badr/badr1234/39997
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://tv2iptv.com:8000/badr/badr1234/39998
 #EXTINF:-1,ES: FOX HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32703
-
+http://tv2iptv.com:8000/badr/badr1234/39968
 #EXTINF:-1,ES: FOX LIFE
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32705
-
+http://tv2iptv.com:8000/badr/badr1234/39971
 #EXTINF:-1,ES: FOX LIFE HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32704
-
+http://tv2iptv.com:8000/badr/badr1234/39970
+#EXTINF:-1,ES: FOX NEWS
+http://tv2iptv.com:8000/badr/badr1234/39888
+#EXTINF:-1,ES: EUROSPORT 1
+http://tv2iptv.com:8000/badr/badr1234/39920
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://tv2iptv.com:8000/badr/badr1234/39919
+#EXTINF:-1,ES: EUROSPORT 2 HD
+http://tv2iptv.com:8000/badr/badr1234/39918
 #EXTINF:-1,ES: CALLE 13 HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32699
-
+http://tv2iptv.com:8000/badr/badr1234/39983
+#EXTINF:-1,ES: CANAL COCINA
+http://tv2iptv.com:8000/badr/badr1234/39898
+#EXTINF:-1,ES: CANAL DE LAS ESTRELLAS
+http://tv2iptv.com:8000/badr/badr1234/39985
+#EXTINF:-1,ES: CANAL DECASA
+http://tv2iptv.com:8000/badr/badr1234/39889
+#EXTINF:-1,ES: CANAL ORBE21
+http://tv2iptv.com:8000/badr/badr1234/40043
+#EXTINF:-1,ES: CANAL PANDA
+http://tv2iptv.com:8000/badr/badr1234/39880
+#EXTINF:-1,ES: CANAL SUR ANDALUCIA
+http://tv2iptv.com:8000/badr/badr1234/40042
+#EXTINF:-1,ES: CANALSUR
+http://tv2iptv.com:8000/badr/badr1234/40047
+#EXTINF:-1,ES: CANALSUR 2
+http://tv2iptv.com:8000/badr/badr1234/40046
+#EXTINF:-1,ES: CANALSUR HD
+http://tv2iptv.com:8000/badr/badr1234/40048
+#EXTINF:-1,ES: BEIN LA LIGA HD
+http://tv2iptv.com:8000/badr/badr1234/39940
+#EXTINF:-1,ES: BEIN LA LIGA 1
+http://tv2iptv.com:8000/badr/badr1234/39938
+#EXTINF:-1,ES: BEIN LA LIGA 2
+http://tv2iptv.com:8000/badr/badr1234/39937
+#EXTINF:-1,ES: BEIN LA LIGA 3
+http://tv2iptv.com:8000/badr/badr1234/39936
+#EXTINF:-1,ES: BEIN LA LIGA 5
+http://tv2iptv.com:8000/badr/badr1234/39935
+#EXTINF:-1,ES: BEIN LA LIGA 6
+http://tv2iptv.com:8000/badr/badr1234/39934
+#EXTINF:-1,ES: BEIN LA LIGA 7
+http://tv2iptv.com:8000/badr/badr1234/39933
+#EXTINF:-1,ES: REAL MADRID TV
+http://tv2iptv.com:8000/badr/badr1234/39907
+#EXTINF:-1,ES: REAL MADRID TV HD
+http://tv2iptv.com:8000/badr/badr1234/39906
+#EXTINF:-1,ES: LA 1
+http://tv2iptv.com:8000/badr/badr1234/40060
+#EXTINF:-1,ES: LA 1 HD
+http://tv2iptv.com:8000/badr/badr1234/40059
+#EXTINF:-1,ES: LA 2
+http://tv2iptv.com:8000/badr/badr1234/40058
+#EXTINF:-1,ES: LA 2 HD
+http://tv2iptv.com:8000/badr/badr1234/40057
+#EXTINF:-1,ES: LA LIGA TVBAR 1
+http://tv2iptv.com:8000/badr/badr1234/39941
+#EXTINF:-1,ES: LA LIGA123
+http://tv2iptv.com:8000/badr/badr1234/39924
+#EXTINF:-1,ES: LA LIGATVBAR
+http://tv2iptv.com:8000/badr/badr1234/39942
+#EXTINF:-1,ES: LA LIGATVBAR HD
+http://tv2iptv.com:8000/badr/badr1234/39943
+#EXTINF:-1,ES: LALIGA 123 TVM 1
+http://tv2iptv.com:8000/badr/badr1234/39923
+#EXTINF:-1,ES: LALIGA 123 TVM 2
+http://tv2iptv.com:8000/badr/badr1234/39922
+#EXTINF:-1,ES: LALIGA 123 TVM 3
+http://tv2iptv.com:8000/badr/badr1234/39921
+#EXTINF:-1,ES: M LIGA DE CAMPEONES 1
+http://tv2iptv.com:8000/badr/badr1234/39953
+#EXTINF:-1,ES: M LIGA DE CAMPEONES 2 HD
+http://tv2iptv.com:8000/badr/badr1234/39950
+#EXTINF:-1,ES: M LIGA DE CAMPEONES 6
+http://tv2iptv.com:8000/badr/badr1234/39946
+#EXTINF:-1,ES: M LIGA DE CAMPEONES 7
+http://tv2iptv.com:8000/badr/badr1234/39945
+#EXTINF:-1,ES: M.CINEDOC&ROLL
+http://tv2iptv.com:8000/badr/badr1234/40003
+#EXTINF:-1,ES: M.CINEDOC&ROLL HD
+http://tv2iptv.com:8000/badr/badr1234/40004
+#EXTINF:-1,ES: M.LCAMPEONES
+http://tv2iptv.com:8000/badr/badr1234/39954
+#EXTINF:-1,ES: M.LCAMPEONES HD
+http://tv2iptv.com:8000/badr/badr1234/39955
+#EXTINF:-1,ES: M.LIGA DE CAMPEONES  2
+http://tv2iptv.com:8000/badr/badr1234/39951
+#EXTINF:-1,ES: M.LIGA DE CAMPEONES  3
+http://tv2iptv.com:8000/badr/badr1234/39949
+#EXTINF:-1,ES: M.LIGA DE CAMPEONES  4
+http://tv2iptv.com:8000/badr/badr1234/39948
+#EXTINF:-1,ES: M.LIGA DE CAMPEONES  5
+http://tv2iptv.com:8000/badr/badr1234/39947
+#EXTINF:-1,ES: M.LIGA DE CAMPEONES  8
+http://tv2iptv.com:8000/badr/badr1234/39944
+#EXTINF:-1,ES: M.LIGA DE CAMPEONES 1 HD
+http://tv2iptv.com:8000/badr/badr1234/39952
+#EXTINF:-1,ES: NAT GEO HD
+http://tv2iptv.com:8000/badr/badr1234/39893
+#EXTINF:-1,ES: NATIONAL GEO WILD
+http://tv2iptv.com:8000/badr/badr1234/39892
+#EXTINF:-1,ES: NATIONAL GEO WILD HD
+http://tv2iptv.com:8000/badr/badr1234/39891
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://tv2iptv.com:8000/badr/badr1234/39894
+#EXTINF:-1,ES: NEOX
+http://tv2iptv.com:8000/badr/badr1234/40038
+#EXTINF:-1,ES: NICK JUNIOR
+http://tv2iptv.com:8000/badr/badr1234/39883
+#EXTINF:-1,ES: NICKELODEON
+http://tv2iptv.com:8000/badr/badr1234/39885
+#EXTINF:-1,ES: NICKELODEON HD
+http://tv2iptv.com:8000/badr/badr1234/39884
+#EXTINF:-1,ES: MULTI DEPORTE
+http://tv2iptv.com:8000/badr/badr1234/39932
+#EXTINF:-1,ES: MULTI DEPORTE 1
+http://tv2iptv.com:8000/badr/badr1234/39931
+#EXTINF:-1,ES: MULTI DEPORTE 2
+http://tv2iptv.com:8000/badr/badr1234/39930
+#EXTINF:-1,ES: MULTI DEPORTE 3
+http://tv2iptv.com:8000/badr/badr1234/39929
+#EXTINF:-1,ES: MULTI DEPORTE 5
+http://tv2iptv.com:8000/badr/badr1234/39927
+#EXTINF:-1,ES: MULTI DEPORTE 6
+http://tv2iptv.com:8000/badr/badr1234/39926
+#EXTINF:-1,ES: MULTI DEPORTE 7
+http://tv2iptv.com:8000/badr/badr1234/39925
+#EXTINF:-1,ES: MULTI FUTBOL 1
+http://tv2iptv.com:8000/badr/badr1234/39914
+#EXTINF:-1,ES: MULTI FUTBOL 3
+http://tv2iptv.com:8000/badr/badr1234/39912
+#EXTINF:-1,ES: #0
+http://tv2iptv.com:8000/badr/badr1234/40011
+#EXTINF:-1,ES: #0 HD
+http://tv2iptv.com:8000/badr/badr1234/40012
+#EXTINF:-1,ES: 24 HORAS
+http://tv2iptv.com:8000/badr/badr1234/40018
+#EXTINF:-1,ES: 3/24
+http://tv2iptv.com:8000/badr/badr1234/40016
+#EXTINF:-1,ES: 7RM HD
+http://tv2iptv.com:8000/badr/badr1234/40023
+#EXTINF:-1,ES: A3SERIES HD
+http://tv2iptv.com:8000/badr/badr1234/40041
+#EXTINF:-1,ES: AMC
+http://tv2iptv.com:8000/badr/badr1234/39977
+#EXTINF:-1,ES: AMC HD
+http://tv2iptv.com:8000/badr/badr1234/39976
+#EXTINF:-1,ES: ANTENA 3
+http://tv2iptv.com:8000/badr/badr1234/40056
+#EXTINF:-1,ES: ANTENA 3 HD
+http://tv2iptv.com:8000/badr/badr1234/40055
+#EXTINF:-1,ES: ARAGON TV
+http://tv2iptv.com:8000/badr/badr1234/40029
+#EXTINF:-1,ES: AXN
+http://tv2iptv.com:8000/badr/badr1234/39981
+#EXTINF:-1,ES: AXN HD
+http://tv2iptv.com:8000/badr/badr1234/39980
+#EXTINF:-1,ES: AXN WHITE
+http://tv2iptv.com:8000/badr/badr1234/39979
+#EXTINF:-1,ES: AXN WHITE HD
+http://tv2iptv.com:8000/badr/badr1234/39978
+#EXTINF:-1,ES: BABY TV
+http://tv2iptv.com:8000/badr/badr1234/39882
+#EXTINF:-1,ES: BARCA TV
+http://tv2iptv.com:8000/badr/badr1234/39908
+#EXTINF:-1,ES: BEMAD
+http://tv2iptv.com:8000/badr/badr1234/40036
+#EXTINF:-1,ES: BEMAD HD
+http://tv2iptv.com:8000/badr/badr1234/40035
+#EXTINF:-1,ES: BLAZE
+http://tv2iptv.com:8000/badr/badr1234/39896
+#EXTINF:-1,ES: BOING
+http://tv2iptv.com:8000/badr/badr1234/39881
+#EXTINF:-1,ES: BOM
+http://tv2iptv.com:8000/badr/badr1234/40021
+#EXTINF:-1,ES: CALLE 13
+http://tv2iptv.com:8000/badr/badr1234/39984
+#EXTINF:-1,ES: CAZA Y PESCA
+http://tv2iptv.com:8000/badr/badr1234/39905
+#EXTINF:-1,ES: CAZA Y PESCA HD
+http://tv2iptv.com:8000/badr/badr1234/39904
+#EXTINF:-1,ES: CAZAVISION
+http://tv2iptv.com:8000/badr/badr1234/39902
+#EXTINF:-1,ES: CINE ESPAGNOL
+http://tv2iptv.com:8000/badr/badr1234/39996
+#EXTINF:-1,ES: CLAN TVE HD
+http://tv2iptv.com:8000/badr/badr1234/40026
+#EXTINF:-1,ES: CLASICO TV
+http://tv2iptv.com:8000/badr/badr1234/40030
+#EXTINF:-1,ES: CLASSICA
+http://tv2iptv.com:8000/badr/badr1234/39872
 #EXTINF:-1,ES: COMEDY CENTRAL
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32689
-
+http://tv2iptv.com:8000/badr/badr1234/39975
+#EXTINF:-1,ES: COSMO
+http://tv2iptv.com:8000/badr/badr1234/39967
 #EXTINF:-1,ES: COSMO HD
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32668
-
-#EXTINF:-1,ES: SYFY
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32706
-
+http://tv2iptv.com:8000/badr/badr1234/39966
+#EXTINF:-1,ES: CRIMEN INVES
+http://tv2iptv.com:8000/badr/badr1234/39897
+#EXTINF:-1,ES: CUATRO
+http://tv2iptv.com:8000/badr/badr1234/40054
+#EXTINF:-1,ES: CUATRO HD
+http://tv2iptv.com:8000/badr/badr1234/40053
+#EXTINF:-1,ES: CUBAVISION
+http://tv2iptv.com:8000/badr/badr1234/40017
+#EXTINF:-1,ES: DISCOVERY
+http://tv2iptv.com:8000/badr/badr1234/39895
+#EXTINF:-1,ES: DIVINITY
+http://tv2iptv.com:8000/badr/badr1234/40040
+#EXTINF:-1,ES: DKISS
+http://tv2iptv.com:8000/badr/badr1234/40032
+#EXTINF:-1,ES: DMAX
+http://tv2iptv.com:8000/badr/badr1234/40033
 #EXTINF:-1,ES: ENERGY
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32683
-
-#EXTINF:-1,ES: FACTORIA DE FICCION
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32685
-
+http://tv2iptv.com:8000/badr/badr1234/40031
+#EXTINF:-1,ES: FDF
+http://tv2iptv.com:8000/badr/badr1234/40039
+#EXTINF:-1,ES: FOX
+http://tv2iptv.com:8000/badr/badr1234/39969
+#EXTINF:-1,ES: GOL TV
+http://tv2iptv.com:8000/badr/badr1234/39964
 #EXTINF:-1,ES: HISTORIA
-http://178.132.3.65:8000/UkjKB8aPh6/poDdoy9aH3/32677
-
-#EXTINF:-1, FDF | HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1, Divinity | HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-
-#EXTINF:0,BeMad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-#EXTINF:0,SP:Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
-
-#EXTINF:0,Canal 13 TV
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7C9rreQ.png" group-title="Calle 13 | SD
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-
-#EXTINF:-1,NATGEO WILD
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-
-#EXTINF:-1,CULTURA:CGTN Documentary
-http://live.cgtn.com/cctv-d.m3u8
-
-#EXTINF:-1,NOTICIAS:RT Español
-http://bit.ly/2iLCJC2
-
-#EXTINF:-1,CILENCE TV
-http://109.236.85.100:8081/sipTV/live/playlist.m3u8
-
-#EXTINF:0,PELICULAS 24/7
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1,SPAIN:(ONLINE) La Otra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-
-#EXTINF:-1,Entretenimiento:Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:-1,M. DCINE HD
-http://163.172.52.83:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/540.ts
-
-#EXTINF:0,Travel
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
-
-#EXTINF:0,TravelHD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-
-
-#EXTINF:0,SP:Aragon TV - Aragon
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-#EXTINF:0,CANAL SUR ANDALUCIA
-http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
-
-#EXTINF:0,CANAL SUR
-http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream1.m3u8
-
-#EXTINF:0,Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-
-#EXTINF:0,ESPAÑA MURCIA
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-
-#EXTINF:0,ESPAÑA NAVARRA
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-
-#EXTINF:0,ESPAÑA IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-
-#EXTINF:0,Melilla TV
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-
-#EXTINF:0,SP:Canal Parlamento - Madrid
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-
-#EXTINF:0,SP:C. Extremadura - Extramadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-
-#EXTINF:0,SP:IB3 - Baleares
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_3.m3u8
-
-#EXTINF:0,SPAIN:TV Galicia Europa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NPwasj0.png" group-title="Extremadura | SD
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3TGxQ3O.png" group-title="ETBSAT | SD
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
-
-#EXTINF:0,Andorra TV (Andorra)
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-
-
-#EXTINF:0,MUSIC BOX
-http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
-
-#EXTINF:0,Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
-
-#EXTINF:0,SP:Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-
-#EXTINF:0,Hit TV | SD
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
-#EXTINF:0,Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:0,M2O TV | SD
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-
-#EXTINF:0,Music Top | HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:0,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-
-#EXTINF:0,Portal FoxMix | HD
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-
-#EXTINF:0,RETRO MUSIC HD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:0,Retro TV | SD
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:0,Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/rtp-asturias.jpg" group-title="SPAIN",RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png" group-title="SPAIN",TEF TV
-http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
-
+http://tv2iptv.com:8000/badr/badr1234/39890
+#EXTINF:-1,ES: HOLLYWOOD
+http://tv2iptv.com:8000/badr/badr1234/39995
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://tv2iptv.com:8000/badr/badr1234/39994
+#EXTINF:-1,ES: IBERALIA
+http://tv2iptv.com:8000/badr/badr1234/39903
+#EXTINF:-1,ES: MEGA SD
+http://tv2iptv.com:8000/badr/badr1234/39972
+#EXTINF:-1,ES: MEZZO
+http://tv2iptv.com:8000/badr/badr1234/39869
+#EXTINF:-1,ES: MTV ESPAÑA
+http://tv2iptv.com:8000/badr/badr1234/39875
+#EXTINF:-1,ES: NOVA
+http://tv2iptv.com:8000/badr/badr1234/40037
+#EXTINF:-1,ES: ODISEA
+http://tv2iptv.com:8000/badr/badr1234/39887
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://tv2iptv.com:8000/badr/badr1234/39974
+#EXTINF:-1,ES: POPULAR TV
+http://tv2iptv.com:8000/badr/badr1234/40022
+#EXTINF:-1,ES: SERIES MANIA
+http://tv2iptv.com:8000/badr/badr1234/40006
+#EXTINF:-1,ES: SERIESMANIA HD
+http://tv2iptv.com:8000/badr/badr1234/40005
+#EXTINF:-1,ES: SOL MUSICA
+http://tv2iptv.com:8000/badr/badr1234/39870
+#EXTINF:-1,ES: SUNDANCE
+http://tv2iptv.com:8000/badr/badr1234/39982
+#EXTINF:-1,ES: SYFY HD
+http://tv2iptv.com:8000/badr/badr1234/39973
+#EXTINF:-1,ES: TCM
+http://tv2iptv.com:8000/badr/badr1234/39993
+#EXTINF:-1,ES: TCM HD
+http://tv2iptv.com:8000/badr/badr1234/39992
+#EXTINF:-1,ES: TDP HD
+http://tv2iptv.com:8000/badr/badr1234/39956
+#EXTINF:-1,ES: TELECINCO
+http://tv2iptv.com:8000/badr/badr1234/40052
+#EXTINF:-1,ES: TELECINCO HD
+http://tv2iptv.com:8000/badr/badr1234/40051
+#EXTINF:-1,ES: TELEDEPORTE
+http://tv2iptv.com:8000/badr/badr1234/39957
+#EXTINF:-1,ES: TELENOVELAS
+http://tv2iptv.com:8000/badr/badr1234/40045
+#EXTINF:-1,ES: TEN
+http://tv2iptv.com:8000/badr/badr1234/40034
+#EXTINF:-1,ES: TNT
+http://tv2iptv.com:8000/badr/badr1234/39991
+#EXTINF:-1,ES: TNT HD
+http://tv2iptv.com:8000/badr/badr1234/39990
+#EXTINF:-1,ES: TOROS HD
+http://tv2iptv.com:8000/badr/badr1234/39900
+#EXTINF:-1,ES: TRECE
+http://tv2iptv.com:8000/badr/badr1234/40020
+#EXTINF:-1,ES: TVM
+http://tv2iptv.com:8000/badr/badr1234/40025
+#EXTINF:-1,ES: VAMOS
+http://tv2iptv.com:8000/badr/badr1234/39963
+#EXTINF:-1,ES: VAMOS HD
+http://tv2iptv.com:8000/badr/badr1234/39962
+#EXTINF:-1,ES: VIAJAR
+http://tv2iptv.com:8000/badr/badr1234/39899
+#EXTINF:-1,ES:MOVISTAR F1 HD
+http://tv2iptv.com:8000/badr/badr1234/39958
+#EXTINF:-1,ES:TOROS
+http://tv2iptv.com:8000/badr/badr1234/39901
+#EXTINF:-1,ES: MOVISTAR_FUTBOL
+http://tv2iptv.com:8000/badr/badr1234/11946
+#EXTINF:-1,ES: LA SEXTA
+http://tv2iptv.com:8000/badr/badr1234/55374
+#EXTINF:-1,ES: LA SEXTA HD
+http://tv2iptv.com:8000/badr/badr1234/55373
